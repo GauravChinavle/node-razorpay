@@ -9,13 +9,12 @@ This project provides a payment gateway and send acknowledgement mail to custome
 - nodemon bin/www
 
 ### Technologies used
-- Node JS 
-- Razorpay payment integration
-- Mailgun 
+- Express JS 
+- Razorpay _payment gateway_
+- Mailgun _mailing service_
 
 ### Pre-requisites
 - Razorpay credentials
 - Mailgun credentials
-
-_Above should be saved in .env_
+    _Above should be saved in .env_
 
