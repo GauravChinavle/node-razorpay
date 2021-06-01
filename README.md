@@ -18,10 +18,9 @@ This project provides a payment gateway and send acknowledgement mail to custome
 - [Mailgun](https://www.mailgun.com/) - _Fast, unopinionated, minimalist web framework for Node.js_
 
 
-### Prerequisites 
-- Razorpay credentials
-- Mailgun credentials
-    #### _Above should be saved in .env_
+### Credentials ###### _should be saved in .env_
+- Razorpay 
+- Mailgun 
 
 
 
