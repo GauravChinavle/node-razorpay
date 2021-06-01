@@ -14,8 +14,8 @@ This project provides a payment gateway and send acknowledgement mail to custome
 - [Express](https://expressjs.com/) - _Fast, unopinionated, minimalist web framework for Node.js_
 
 ### Modules used
-- [Razorpay](https://razorpay.com/)   - _payment gateway_
-- [Mailgun](https://www.mailgun.com/) - _email service_
+- [Razorpay](https://razorpay.com/)   - _Payment gateway_
+- [Mailgun](https://www.mailgun.com/) - _Email service_
 
 ### Credentials required
 - Razorpay 
