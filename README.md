@@ -21,7 +21,7 @@ This project provides a payment gateway and send acknowledgement mail to custome
 ### Pre-requisites
 - Razorpay credentials
 - Mailgun credentials
-    - _Above should be saved in .env_
+    > _Above should be saved in .env_
 
 
 
