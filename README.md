@@ -17,10 +17,11 @@ This project provides a payment gateway and send acknowledgement mail to custome
 - [Razorpay](https://razorpay.com/)   - _payment gateway_
 - [Mailgun](https://www.mailgun.com/) - _Fast, unopinionated, minimalist web framework for Node.js_
 
-
-### Credentials ###### _should be saved in .env_
+### Credentials
 - Razorpay 
 - Mailgun 
+
+####### credentials should be saved in .env_
 
 
 
