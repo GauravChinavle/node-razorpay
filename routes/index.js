@@ -6,8 +6,8 @@ const sendMail = require('../services/mailgun.js');
 
 router.get('/', function (req, res, next) {
   var instance = new Razorpay({
-    key_id: process.env.KeyID,
-    key_secret: process.env.KeySecret
+    key_id: process.env.Razor_KeyID,
+    key_secret: process.env.Razor_KeySecret
   });
   instance.orders.create({
     amount: 25000,
